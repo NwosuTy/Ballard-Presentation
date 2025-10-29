@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shield Humanoid Animations
+  m_Controller: {fileID: 9100000, guid: 8be5fcc6c8f14f448acdf19678e4c38e, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: ff0018164bcab324e88f05014d83bfdc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d3d060e41816f6846a5a6f2ae45f962b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0881990aedc940d4e98e1633c35f4c3a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d3d060e41816f6846a5a6f2ae45f962b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a263c6164760b3d488b08fb81be2b0f7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b6565a1f1ef36564bb81b35beb9a855e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5a462695f13b3914683e5f829a92279b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 08d93152a87a1924a8e6904ec692bf24, type: 2}
